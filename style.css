@@ -1,0 +1,25 @@
+.card >img {
+    width: auto;
+    height: 300px;
+}
+
+h5,p {
+    text-align: justify;
+    }
+
+#strengthDisp {
+        margin-top: 1px;
+        height: 7px;
+        border: none;
+}
+
+#sign{
+    width: 600px;
+}
+
+#strength {
+    margin-top: 1px;
+    height: 7px;
+    border: none;
+}
+    
